@@ -1,6 +1,13 @@
 # FaqApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
+![ScreenShot](assets/app.png)
+
+Simple Questions and Answers Application
+
+## Functionality
+- Form to add questions and answers.
+- We can toggle and delete them.
+- Pushing questions and answers to localstorage, even if we refreash the page.
 
 ## Technologies
 
@@ -11,6 +18,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Jquery
 - Tether
 - git
+
 
 ## Installation
 #### Angular CLI
@@ -39,3 +47,5 @@ npm install bootstrap@4.0.0-alpha.6 jquery tether --save
       ]
 ```
 
+## License
+The MIT License
